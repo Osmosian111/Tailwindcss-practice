@@ -1,2 +1,2 @@
 # Tailwindcss
-- learning tailwindcss 
+- learning tailwindcss from youtube
